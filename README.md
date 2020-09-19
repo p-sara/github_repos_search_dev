@@ -24,7 +24,7 @@ About accessibility:
 * I check keyboard navigation flow and made sure all functions can be accessed not only with clicks, but keydowns too
 * if the app was larger, had navigation or header I would probably create "skip to content" button
 
-I recently wrote an article about accessibility, as I wanted to deepen my knowledge about the topic. It's in Polish, but has code snippets. Can be found [here](https://medium.com/@sara_p_sara/nie-wstyd%C5%BA-si%C4%99-by%C4%87-programist%C4%85-html-czyli-rzecz-o-dost%C4%99pno%C5%9Bci-6faab1599578).
+I recently wrote an article about accessibility, as I wanted to deepen my knowledge about the topic. It's in Polish, but has code snippets and Google translator makes it quite readable in English too. Can be found [here](https://medium.com/@sara_p_sara/nie-wstyd%C5%BA-si%C4%99-by%C4%87-programist%C4%85-html-czyli-rzecz-o-dost%C4%99pno%C5%9Bci-6faab1599578).
 
 View working sample [here](https://p-sara.github.io/github_repos_search_dev/).
 
