@@ -1,7 +1,6 @@
 <template>
 <div class="columns">
-    <div class="column is-one-third is-offset-one-third notification is-danger">
-  <button class="delete"></button>
+    <div class="column is-3 is-offset-5 notification is-danger">
   {{message}}
 </div>
 </div>

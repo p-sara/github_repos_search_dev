@@ -51,7 +51,9 @@ export default {
         ? this.getForUser($event.name)
         : this.getForOrganization($event.name);
     },
-
+     // for both getForUser and getForOrganization functions
+     // if call for repositories is successful, a call for user avatar can be sent, as extra touch,
+    // otherwise alert of failure is shown 
     getForUser(name) {
       this.$http
         .get(`/users/${name}/repos`)
@@ -85,6 +87,7 @@ export default {
 
 <style scoped>
 .hero.is-primary {
+  /* if gradient can't be displayed, background will fall to what's defined in is-primary class*/
   background: linear-gradient(
     149deg,
     rgba(0, 209, 178, 1) 0%,
