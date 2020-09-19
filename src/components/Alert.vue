@@ -1,7 +1,9 @@
 <template>
-    <div class="notification is-danger">
+<div class="columns">
+    <div class="column is-one-third is-offset-one-third notification is-danger">
   <button class="delete"></button>
   {{message}}
+</div>
 </div>
 </template>
 <script>
