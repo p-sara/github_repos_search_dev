@@ -1,3 +1,3 @@
 module.exports = {
-    publicPath: '/github-repo-searcher/'
+    publicPath: '/github_repos_search_dev/'
   }
