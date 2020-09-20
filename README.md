@@ -20,6 +20,7 @@ Vue-cli made all bundling and compiling set up for me. I have used webpack befor
 
 About accessibility:
 * I used labels (if design required hiding them, I would still place them in html code, but hide with adequate css styles, bulma has a class for it called "is-sr-only", to make them available for screen readers)
+* added alt description to image
 * I made sure focus state will be consistent for all browsers (as it usually differs) and is prominent enough
 * I check keyboard navigation flow and made sure all functions can be accessed not only with clicks, but keydowns too
 * if the app was larger, had navigation or header I would probably create "skip to content" button
