@@ -28,5 +28,8 @@ export default {
 .table {
   border-radius: 10px;
   background-color: #ffffffa3;
+  max-width: 100vw;
+  overflow-y: scroll;
+  display: block;
 }
 </style>
