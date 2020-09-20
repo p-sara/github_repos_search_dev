@@ -12,7 +12,7 @@
           </p>
           <Form v-on:form-data="getRepositories($event)" />
           <Alert v-if="message" :message="message" />
-          <User :avatarUrl="avatarUrl" />
+          <User v-if="avatarUrl" :avatarUrl="avatarUrl" />
           <Repos v-if="repos" :repos="repos" />
         </div>
       </div>
