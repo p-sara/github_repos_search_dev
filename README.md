@@ -8,11 +8,11 @@
 * Axios (HTTP client)
 * Vue-cli (Vue tooling, which uses babel, webpack and linter)
 
-These are technologies I use in my current project at work. I chose them, because I am familiar with them and find them easy to use. Another front end framework I worked with is Angular, but it needs a lot of boilerplate and is a bit "heavier". Its advantage is that by default it should be written in Typescript, but Typescript can be also easily used with Vue.
+These are technologies I use in my current project at work. I chose them, because I am familiar with them and find them easy to use. Another front end framework I worked with is Angular, but it needs a lot of boilerplate and is a bit "heavier". Its advantage is that by default it should be written in Typescript, but Typescript can be also easily used with Vue. Also community for Vue is well organised and provides lots of support.
 
-Bulma was my choice as an alternative to popular Bootstrap. I wanted to try something new. It 
+Bulma was my choice as an alternative to popular Bootstrap. I wanted to try something new.
 
-Sass has been my default choice for some time, having advantages over pure css in modularizing and writing functions, nesting, defining variables, but with CSS evolving as fast as it has recently (CSS variables, grid, we might not need it anymore soon. For a small project like this one Sass is rather an overkill, but I initially wanted to modify bulma variables, then changed my mind. 
+Sass has been my default choice for some time, having advantages over pure css in modularizing and writing functions, nesting, defining variables, creating mixins but with CSS evolving as fast as it has recently (CSS variables, grid), we might not need it anymore soon. For a small project like this one Sass is rather an overkill, but I initially wanted to modify bulma variables, then changed my mind. 
 
 Axios, based on promises, is easy to use and compatible with Vue.
 
@@ -31,5 +31,5 @@ I recently wrote an article about accessibility, as I wanted to deepen my knowle
 
 ### Design can be viewed [here](https://github.com/p-sara/github_repos_search_design).
 
-I started with simple sketch, then proceeded to wireframing tool called Figma and created simple prototypes there.
+I started with basic sketch, then proceeded to wireframing tool called Figma and created simple prototypes there.
 
